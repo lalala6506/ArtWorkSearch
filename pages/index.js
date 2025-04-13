@@ -3,7 +3,9 @@
 * Academic Integrity Policy:
 *
 * https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
-* * Name: Cha Li Student ID: 046626131 Date: March 22,2025
+* * Name: Cha Li Student ID: 046626131 Date: April 13,2025
+
+Vercel App (Deployed) Link: 
 * ********************************************************************************/
 import { Pagination, Accordion, Row, Image,Col } from "react-bootstrap";
 
