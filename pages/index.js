@@ -21,7 +21,7 @@ export default function Home() {
       />
       <Row className="mt-4">
         <Col lg={6}>
-          <p>The Metropolitan Museum of Art of New York City, is the largest art museum in the Americas. Its permanent collection contain oever two million work. The main building along the Museum Mile on the eastern edge of Central Park on Manhattan's Upper East Side, is by area one of the world's largest art museums. A much smaller second location, The Cloisters at Fort Tryon Park in Upper Manhattan, contains an extensive collection of art, architecture, and artifacts from medieval Europe.</p>
+          <p>The Metropolitan Museum of Art of New York City, is the largest art museum in the Americas. Its permanent collection contain oever two million work. The main building along the Museum Mile on the eastern edge of Central Park on Manhattan Upper East Side, is by area one of the world largest art museums. A much smaller second location, The Cloisters at Fort Tryon Park in Upper Manhattan, contains an extensive collection of art, architecture, and artifacts from medieval Europe.</p>
         </Col>
         <Col lg={6}>
           <p>
