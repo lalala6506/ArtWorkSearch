@@ -4,7 +4,7 @@ import { Card } from "react-bootstrap";
 import { Row, Col } from 'react-bootstrap';
 
 
-export default function handler() {
+export default function Handler() {
     const router = useRouter();
     const { objectID } = router.query;
 

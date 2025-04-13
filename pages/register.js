@@ -7,7 +7,7 @@ import { registerUser } from "@/lib/authenticate";
 
 
 
-export default function register(props) {
+export default function Register(props) {
 
   const [warning, setWarning] = useState("");
   const [user, setUser] = useState("");
